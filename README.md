@@ -38,6 +38,8 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="40" height="40" />
+  <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" width="40" height="40" /> 
 
 
 
