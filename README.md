@@ -47,7 +47,7 @@
 
 </p>
 
-### 🔥 Streak Stats
+### <img src="https://tenor.com/view/fire-gif-23339431" width ="25"> <b>Streak Stats</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 
 <p align="center">
