@@ -16,7 +16,7 @@
 <br>
 
 
-<hr>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -43,7 +43,7 @@
 
 
  
-<hr>
+
 </p>
 
 ### 🔥 Streak Stats
@@ -52,7 +52,8 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravinth-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 
