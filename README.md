@@ -6,10 +6,9 @@
 
 <picture> <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width = 400px></picture>
  - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m currently learning React Js
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about 
-- 📫 How to reach me: Contact part
+- 📫 How to reach me: aravinthselvan13@gmail.com
 - 😄 Pronouns: he/Him
 - ⚡ Fun fact:  I 💖 to code 24x7.
 
