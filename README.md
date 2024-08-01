@@ -23,7 +23,7 @@
 
 - **Languages**:
     
-     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+     <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width="40" height='40' alt="Python"/>
   
 - **Front-End Development**:
 
