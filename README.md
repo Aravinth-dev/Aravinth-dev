@@ -4,10 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BE608&width=435&lines=Hey!+it's+Aravinth;I'm+a+frontEnd+developer)](https://git.io/typing-svg)
  <hr>
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
- <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
-</p>
+
 
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
