@@ -17,7 +17,7 @@
 
 
 
-## 🔥 <b> Skills</b>
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> <b> Skills</b>
 
 <p align="center">
 
@@ -47,7 +47,7 @@
 
 </p>
 
-### <img src="https://tenor.com/view/fire-gif-23339431" width ="25"> <b>Streak Stats</b>
+### 🔥 <b>Streak Stats</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 
 <p align="center">
