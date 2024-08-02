@@ -1,4 +1,4 @@
-<h1 align="center">Hi there</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BE608&width=435&lines=Hey!+it's+Aravinth;I'm+a+frontEnd+developer)](https://git.io/typing-svg)
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width =40px></picture> **About me**
@@ -48,6 +48,7 @@
 </p>
 
 ### 🔥 <b>Streak Stats</b>
+--
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 
 <p align="center">
