@@ -54,7 +54,7 @@
 
 ## <p align="left"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravinth-dev&theme=tokyonight)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinth-dev&count_private=true&theme=radical" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&locale=en&theme=chartreuse-dark" alt="aravinth" width="410" /></p>
 
