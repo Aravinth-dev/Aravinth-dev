@@ -47,7 +47,7 @@
 
 </p>
 
-### 🔥 <b>Streak Stats</b>
+## 🔥 <b>Streak Stats</b>
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
