@@ -23,25 +23,23 @@
 
 ### 👨‍💻 Programming Languages
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" width="40" alt="Python" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" width="40" alt="Python" />  
 
 ### 🌐 Front-End Development
 
-<img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" alt="HTML" /><img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" alt="CSS" /><img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" alt="JavaScript"/><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React"/><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="TailwindCSS"/>
+<img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" alt="HTML" />  <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" alt="CSS" />   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" alt="JavaScript"/>  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React"/>   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="TailwindCSS"/>
 
 ### 🧰 Tools & Platforms
 
-<img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" alt="Git"/>
-<img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="40" alt="Firebase"/>
-<img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" width="40" alt="Adobe XD"/>
+<img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" alt="Git"/>   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="40" alt="Firebase"/>   <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" width="40" alt="Adobe XD"/>
 
 ---
 
 ## 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="Streak Stats"  width="40%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&theme=chartreuse-dark&hide_border=true" width="40%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&theme=chartreuse-dark&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="Streak Stats"  width="45%"/>
 </p>
 
 
@@ -50,8 +48,10 @@
 ## 👨‍💻 Problem-Solving Practice
 
 I actively solve Data Structures & Algorithms problems on **LeetCode** to enhance my coding skills.
+<p align='center'>
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/Aravinth--dev?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Aravinth--dev/)
+</p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Aravinth--dev?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Aravinth--dev/)
 
 ---
 
