@@ -23,16 +23,11 @@
 
 ### 👨‍💻 Programming Languages
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" width="40" alt="Python" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" width="40" alt="Python" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### 🌐 Front-End Development
 
-<img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" alt="HTML" />
-<img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" alt="CSS" />
-<img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" alt="JavaScript"/>
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React"/>
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="TailwindCSS"/>
+<img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" alt="HTML" /><img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" alt="CSS" /><img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" alt="JavaScript"/><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React"/><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="TailwindCSS"/>
 
 ### 🧰 Tools & Platforms
 
@@ -45,13 +40,10 @@
 ## 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="Streak Stats"  width="40%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&theme=chartreuse-dark&hide_border=true" width="40%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&theme=chartreuse-dark&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinth-dev&layout=compact&theme=radical&hide_border=true" width="45%"/>
-</p>
 
 ---
 
@@ -67,12 +59,10 @@ I actively solve Data Structures & Algorithms problems on **LeetCode** to enhanc
 
 - 📧 Email: **aravinthselvan13@gmail.com**  
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR-USERNAME)  
-- 🌐 Portfolio: [aravinth-dev.github.io](https://aravinth-dev.github.io)
+
 
 ---
 
 > ⚡ Building the future, one pixel at a time.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Thanks+for+visiting!;Let’s+connect+and+create+something+amazing."/>
-</p>
+
