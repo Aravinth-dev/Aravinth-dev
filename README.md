@@ -58,6 +58,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinth-dev&count_private=true&theme=radical" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&locale=en&theme=chartreuse-dark" alt="aravinth" width="410" /></p>
 
+ ---
+
+
 ---
 
 ## 👨‍💻 Problem Solving Practice
@@ -67,6 +70,5 @@ I actively practice Data Structures & Algorithms on LeetCode to strengthen my pr
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Aravinth--dev?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Aravinth--dev/)
 
 ---
-
 
 
