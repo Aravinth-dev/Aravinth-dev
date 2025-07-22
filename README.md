@@ -48,9 +48,8 @@
 ## 👨‍💻 Problem-Solving Practice
 
 I actively solve Data Structures & Algorithms problems on **LeetCode** to enhance my coding skills.
-<p align='center'>
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Aravinth--dev?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Aravinth--dev/)
-</p>
+
+ [![LeetCode Stats](https://leetcard.jacoblin.cool/Aravinth--dev?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Aravinth--dev/)
 
 
 ---
