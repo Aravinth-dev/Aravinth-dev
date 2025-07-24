@@ -38,8 +38,8 @@
 ## 🔥 GitHub Streak & Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&theme=chartreuse-dark&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&theme=algolia" alt="Streak Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&theme=chartreuse-dark&hide_border=true" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=aravinth-dev&theme=algolia" alt="Streak Stats" width="45%"/>
 </p>
 
 
