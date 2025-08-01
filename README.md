@@ -54,12 +54,6 @@ I actively solve Data Structures & Algorithms problems on **LeetCode** to enhanc
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravinth-dev&show_icons=true&locale=en&layout=compact" alt="aravinth-dev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aravinth-dev&show_icons=true&locale=en" alt="aravinth-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-dev&" alt="aravinth-dev" /></p>
-
 
 ## 📫 Let's Connect
 
