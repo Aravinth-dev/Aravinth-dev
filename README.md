@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BE608&center=true&width=435&lines=Hey!+I'm+Aravinth.;I'm+a+Front-End+Developer.;I+love+building+user-friendly+web+apps.)](https://git.io/typing-svg)
 
 --- 
-
+ 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30"> About Me
 
 <picture>
